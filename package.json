@@ -1,0 +1,27 @@
+{
+  "name": "formula-date-time",
+  "version": "0.0.2",
+  "description": "All date and time functions.",
+  "main": "DATETIME.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FormulaPages/date-time.git"
+  },
+  "keywords": [
+    "Spreadsheets",
+    "FormulaPages",
+    "JavaScript"
+  ],
+  "author": "Peter Moresi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FormulaPages/date-time/issues"
+  },
+  "homepage": "https://github.com/FormulaPages/date-time#readme",
+  "dependencies": {
+    "formula-date": "^1.0.0"
+  }
+}
